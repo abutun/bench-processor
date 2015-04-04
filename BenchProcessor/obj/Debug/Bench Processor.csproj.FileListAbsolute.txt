@@ -1,1 +1,0 @@
-D:\Pojects\bench-processor\BenchProcessor\bin\Debug\BenchProcessor.exe.config
