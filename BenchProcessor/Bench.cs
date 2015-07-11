@@ -574,8 +574,6 @@ namespace BenchProcessor
                         }
                     }
 
-                    file.Close();
-
                     ErrorMessage = "OK";
 
                     return true;
@@ -926,8 +924,6 @@ namespace BenchProcessor
                             modeOperationCounter++;
                         }
                     }
-
-                    file.Close();
 
                     ErrorMessage = "OK";
 
